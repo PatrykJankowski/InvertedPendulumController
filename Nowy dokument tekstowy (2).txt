@@ -1,0 +1,8 @@
+im wiekszy zakres saturacji tym wieksza theta ale mozemy stabilizowac wartosci blizej pi/2
+
+1.0471 rad to degrees
+59.9944107 degrees
+
+pi/3.0001
+1.0472 rad to degrees
+60.0001403 degrees
